@@ -1,0 +1,510 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+header
+{
+    background-color:#BDEAE8;
+    border: none;
+    border-radius: 15px;
+    height: 250px;
+    width: 1275px;
+    margin: 20px;
+    position: fixed;
+    z-index: 1000;
+    box-shadow: 10px 10px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
+header .Logo-EnchantedGhibli
+{
+    width: 250px;
+    height: 250px;
+    border: none;
+    border-radius: 200px;
+    padding: 20px 20px;
+    position: absolute;
+}
+
+header nav
+{
+    margin-left: -300px;
+}
+
+header nav ul
+{
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+    margin-top: 6px;
+    margin-left:10px ;
+    padding-top: 100px;
+}
+
+header ul li
+{
+    margin-right: 30px;
+}
+
+header ul li a
+{
+    text-decoration: none;
+    color: #000000;
+    padding-left: 4px;
+}
+
+header nav ul li a
+{
+    display: block;
+    transition: 0.4s ease;
+}
+
+header nav ul li a:hover
+{
+    font-size: 21px;
+    color: #0799c4;
+    transform: scale(1.2);
+}
+
+.barra-busqueda
+{
+    margin-top: -40px;
+    margin-left:85%;
+}
+
+.barra-busqueda .buscar
+{
+    border: 1px solid;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.barra-busqueda .button
+{
+    border: 1px solid;
+    border-radius: 15px;
+    height: 30px;
+    width: 65px;
+    background-color: #ffff;
+}
+
+nav li
+{
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+main
+{
+    margin-top: 400px;
+    margin-left: 150px;
+    position: absolute;
+    background-color: #CCEEEE;
+    border: none;
+    border-radius: 15px;
+    width: 1000px;
+    height: 500px;
+}
+
+.acercade-title
+{
+    font-size: 80px;
+    text-align: right;
+    margin-top: 100px;
+    margin-left: 100px;
+    z-index: 0;
+    margin-right: -60px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.acercade-title .sg
+{
+    color: #0799c4;
+}
+
+.acercade-title .aprende
+{
+    color: #222222;
+}
+
+
+.acercade-imgs .forma-asbtracta
+{
+    width: 400px;
+    height: 400px;
+    border: none;
+    border-radius: 15px;
+    z-index: 1;
+    margin-top: -700px;
+}
+.acercade-imgs .totoro
+{
+    width: 300px;
+    height: 300px;
+    z-index: 2;
+    margin-top: -245px;
+    margin-left: -400px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.historia
+{
+    margin-top: 200px;
+    background-color: #CCEEEE;
+    border: none;
+    border-radius: 15px;
+    height: 900px;
+}
+
+.txt-historia h3
+{
+    font-size: 80px;
+    color: #222222;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6) ;
+    margin-top: 50px;
+    margin-left: -30px;
+}
+
+.txt-historia p
+{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 450px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.img-historia
+{
+    position: absolute;
+}
+
+.img-historia .conejosdepolvo, .conejosdepolvo-1
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.img-historia .conejosdepolvo
+{
+    margin-top: -880px;
+    margin-left: -130px;
+}
+
+.img-historia .conejosdepolvo-1
+{
+    margin-top: -880px;
+    margin-left: 280px;
+}
+
+.img-historia .Personajes-Historia
+{
+    width: 600px;
+    height: 200%;
+    margin-top: -880px;
+    margin-left: 500px;
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.5));
+}
+
+main hr
+{
+    margin-top: 50px;
+
+}
+
+.container-creadores
+{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    position: absolute;
+}
+
+.container-creadores h3
+{
+    font-size: 80px;
+    text-align: center;
+    margin-top: -150px;
+    text-shadow:  2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.container-creadores .conejosdepolvo-container-creadores, .conejosdepolvo-container-creadores-1
+{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.container-creadores .conejosdepolvo-container-creadores
+{
+    margin-top: -100px;
+    margin-left: 150px;
+}
+
+.container-creadores .conejosdepolvo-container-creadores-1
+{
+    margin-top: -100px;
+    margin-left: 750px;
+}
+
+.txt-HayaoMiyazaki h4
+{
+    font-size: 50px;
+    margin-top: 10%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.txt-HayaoMiyazaki p
+{
+    font-size: 20px;
+    margin-right: 500px;
+    margin-top: 5%;
+    border: none;
+    border-radius: 15px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 5px 0 5px 5px;
+}
+
+.img-HayaoMiyazaki
+{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 70%;
+}
+
+.txt-IsaoTakahata h4
+{
+    font-size: 50px;
+    margin-top: 10%;
+    margin-left: 65%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.txt-IsaoTakahata p
+{
+    font-size: 20px;
+    margin-left: 500px;
+    text-align: right;
+    margin-top: 5%;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    padding: 5px 5px 5px 0;
+}
+
+.img-IsaoTakahata img
+{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 10px;
+    width: 300px;
+    height: 400px;
+    border: none;
+    border-radius: 15px;
+}
+
+.txt-ToshioSusuki h4
+{
+    font-size: 50px;
+    margin-top: 10%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.txt-ToshioSusuki p
+{
+    font-size: 20px;
+    margin-right: 500px;
+    margin-top: 5%;
+    border: none;
+    border-radius: 15px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 5px 0 5px 5px;
+}
+
+.img-ToshioSusuki img
+{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 70%;
+    width: 300px;
+    height: 400px;
+    border: none;
+    border-radius: 15px;
+}
+
+
+footer
+{
+    margin-top: 3600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: absolute;
+    background-color: #BDEAE8;
+    border: 2px solid #0799c4;
+    border-radius: 15px;
+    height: 400px;
+    width: 1275px;
+}
+
+.ft
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h3
+{
+    font-size: 30px;
+    color: #222222;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.explorar
+{
+    margin-left: 10%;
+}
+
+.title-explorar
+{
+    display: inline;
+}
+
+.explorar li
+{
+    list-style: none;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.explorar li a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.explorar li a
+{
+    display: block;
+    transition: 0.4s ease;
+}
+
+.explorar li a:hover
+{
+    font-size: 21px;
+    color: #0799c4;
+    transform: scale(1.2);
+}
+
+
+.politicas
+{
+    margin-right: 10%;
+}
+
+.politicas li
+{
+    list-style: none;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.ft-redessociales
+{
+    background-color: #0799c4;
+    margin-top: 2%;
+    border-radius:0 0 15px 15px;
+    height: 150px;
+    align-items: center;
+    align-content: center;
+}
+
+.ft-redessociales h3
+{
+    color: #ffff;
+    margin-top: 2%;
+}
+
+.ft-redessociales-txt li
+{
+    display: inline-block;
+    margin-left: 270px;
+}
+
+.ft-redessociales-txt li a
+{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.imgs-redessociales li
+{
+    list-style: none;
+    display: inline;
+    display: inline-block;
+    margin-left: 180px ;
+}
+
+.imgs-redessociales img
+{
+    width: 50px;
+    width: 50px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.imgs-redessociales img
+{
+    display: inline-block;
+    transition: all 0.4s ease;
+}
+
+.imgs-redessociales img:hover
+{
+    width: 55px;
+    transform: scale(1.2);
+}
+
+.img-png-1, .img-png-2, .img-png-3, .img-png-4
+{
+    width: 100px;
+    height: 100px;
+}
+
+.txt-imgs-decoration .img-png-1
+{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 400px;
+}
+
+.txt-imgs-decoration .img-png-2
+{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 780px;
+}
+
+.txt-imgs-decoration .img-png-3
+{
+    position: absolute;
+    margin-top: -110px;
+    margin-left: 1130px;
+}
+
+.txt-imgs-decoration .img-png-4
+{
+    position: absolute;
+    margin-top: -110px;
+    margin-left: 30px;
+}
