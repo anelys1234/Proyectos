@@ -1,0 +1,15 @@
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\bin\Debug\net7.0\Mayor de edad.exe
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\bin\Debug\net7.0\Mayor de edad.deps.json
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\bin\Debug\net7.0\Mayor de edad.runtimeconfig.json
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\bin\Debug\net7.0\Mayor de edad.dll
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\bin\Debug\net7.0\Mayor de edad.pdb
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.csproj.AssemblyReference.cache
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.AssemblyInfo.cs
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.dll
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\refint\Mayor de edad.dll
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.pdb
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\Mayor de edad.genruntimeconfig.cache
+C:\Users\123\OneDrive\Documentos\Media tecnica\Mayor de edad\obj\Debug\net7.0\ref\Mayor de edad.dll
