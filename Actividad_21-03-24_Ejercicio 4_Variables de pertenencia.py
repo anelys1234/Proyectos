@@ -1,0 +1,5 @@
+NOMBRE_USUARIO = input('Ingresar su nombre: ')
+NOMBRE_MAMA = input('Ingrese el nombre de su mamá: ')
+TEXTO = input('Ingrese un texto: ')
+print(f"'{TEXTO}' pertenece al nombre del usuario." if TEXTO in NOMBRE_USUARIO else f"'{TEXTO}' no pertenece al nombre del usuario.")
+print(f"'{TEXTO}' pertenece al nombre de la mama." if TEXTO in NOMBRE_MAMA else f"'{TEXTO}' no pertenece al nombre de la mamá.")
